@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript, React  
-- Backend: Node.js, Express  
+- Backend: Node.js, Express, Python, Java
 - Database: MySQL, PostgreSQL ,MongoDB, Vector Database 
 - Tools: Git, GitHub, Postman, Docker
 
