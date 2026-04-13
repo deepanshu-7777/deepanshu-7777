@@ -20,7 +20,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=deepanshu-7777&show_icons=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=deepanshu-7777&show_icons=true&theme=tokyonight)
 
 ---
 
